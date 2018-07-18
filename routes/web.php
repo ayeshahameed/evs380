@@ -15,4 +15,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+
 Route::get();
+
+Route::post();
+
+Route::put();
+
